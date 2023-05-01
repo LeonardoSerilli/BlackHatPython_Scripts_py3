@@ -1,4 +1,4 @@
-Black Hat Python Scripts (Python 3)
+# Black Hat Python Scripts (Python 3)
 
 This repository contains Python 3 code for the book Black Hat Python by Justin Seitz. The code in the book was originally written in Python 2, so as I study the book, I have been rewriting the code in Python 3.
 
