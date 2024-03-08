@@ -3,7 +3,9 @@
 Welcome to the "Black Hat Python Scripts (Python 3)" repository. This project is a collection of Python 3 scripts based on the book Black Hat Python by Justin Seitz. The original book's code was written in Python 2, and as part of my study, I have taken on the task of rewriting these scripts in Python 3, enhancing them for modern cybersecurity practices and Python standards.
 About This Project
 
-![image](https://user-images.githubusercontent.com/80627086/235501013-2415b4bc-c1fd-4dbf-8a91-457dbc59d122.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80627086/235501013-2415b4bc-c1fd-4dbf-8a91-457dbc59d122.png" alt="Black Hat Python Scripts">
+</p>
 
 As I delve into Black Hat Python, I'm not only translating the code from Python 2 to Python 3 but also integrating my own solutions and improvements inspired by additional online resources related to the book. This repository serves as a living document of my learning journey, showcasing the practical application of Python in cybersecurity.
 
