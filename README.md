@@ -27,5 +27,5 @@ To get started with these Python 3 scripts, follow the steps below:
 - **Have fun!**
 
 # Acknowledgments
-    - Justin Seitz, for the original Black Hat Python book.
-    - The Python and cybersecurity communities, for their endless sources of inspiration and knowledge.
+- Justin Seitz, for the original Black Hat Python book.
+- The Python and cybersecurity communities, for their endless sources of inspiration and knowledge.
