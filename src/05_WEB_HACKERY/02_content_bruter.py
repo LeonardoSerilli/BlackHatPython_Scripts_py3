@@ -13,6 +13,7 @@ The tool will accept wordlists from common brute forcers such as:
 It will then attempt to discover directories and files that are reachable on the target web server.
 
 NOTE: it’s useful to react to the output because, you may have to filter out more HTTP error codes in order to clean it up
+
 """
 
 # User-Agent header is set to something innocuous
